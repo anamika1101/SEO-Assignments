@@ -1,0 +1,37 @@
+﻿Question:- 1
+
+
+Answers:-
+Search Engine Optimization (SEO) is a multifaceted digital marketing strategy aimed at enhancing the visibility and ranking of a website in search engine results pages.The goal of SEO is to attract more organic traffic to a website by making it easier for search engines like Google to understand and index its content. This involves optimizing various aspects of the website, including its content, structure, and technical setup, to align with what search engines consider important for ranking.
+Importance of SEO:-
+SEO helps websites appear higher in search engine results, making it more likely that users will click on them, resulting in increased organic traffic.
+SEO involves making your website faster, easier to navigate, and more user-friendly, which improves the overall user experience.
+SEO helps attract visitors who are actively searching for products, services, or information that your website offers, resulting in higher conversion rates.
+
+
+
+
+
+
+
+
+Question:-3
+
+
+Answers:-
+Meta tags, especially meta title and description, help your website appear higher in search engine results pages (SERPs).
+They clearly define what each web page is about, helping users understand content before clicking.
+Meta tags for social platforms ensure shared links display compelling visuals and descriptions, boosting engagement on social media.
+Meta tags, when optimized with relevant keywords, attract targeted visitors who are more likely to convert.
+We have control over how your website appears in search results.
+
+
+
+
+
+
+Question:-5
+
+
+Answers:-
+A favicon is a small icon associated with a website that appears in the browser tab, bookmark bar, and other areas of the browser interface. It stands for "favorite icon" and is typically a square image, usually 16x16 pixels or 32x32 pixels in size, though higher resolutions like 64x64 pixels are also common for better clarity on high-resolution screens. It help users quickly identify and distinguish between different websites when multiple tabs are open in a web browser.
